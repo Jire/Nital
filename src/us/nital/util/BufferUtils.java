@@ -75,7 +75,7 @@ public class BufferUtils {
 			buf.writeByte(c);
 		}
 		/*
-		 * We write of value of 10 to the end of the 
+		 * We write a value of 10 to the end of the 
 		 * buffer to signify that we're finished.
 		 */
 		buf.writeByte(10);
