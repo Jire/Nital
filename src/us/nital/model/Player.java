@@ -128,7 +128,7 @@ public class Player extends Mob implements Saveable {
 	}
 
 	/**
-	 * If this flag is appended as <code>true</code>, the player is
+	 * If this flag is set to <code>true</code>, the player is
 	 * flagged. When a player is flagged the client will be configured
 	 * to send special bot detection packets towards the server so
 	 * that they may be determined to, or not to of been using macros.
